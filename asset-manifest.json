@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/window11-ui/static/css/main.4986e224.css",
+    "main.js": "/window11-ui/static/js/main.d43f1fd9.js",
+    "static/media/video.webm": "/window11-ui/static/media/video.288b96dc7c385b4cef55.webm",
+    "static/media/todoIcon.png": "/window11-ui/static/media/todoIcon.e1bbc925cdc176251b45.png",
+    "static/media/vscodeIcon.png": "/window11-ui/static/media/vscodeIcon.a61dc62c499ed3aeefdc.png",
+    "static/media/ubuntu.png": "/window11-ui/static/media/ubuntu.460bb020afc047b0e32f.png",
+    "static/media/startIcon.png": "/window11-ui/static/media/startIcon.90029ebfd6ac3139d69c.png",
+    "static/media/admin.jpeg": "/window11-ui/static/media/admin.59e86884fadab8f75dd3.jpeg",
+    "static/media/tiktok.png": "/window11-ui/static/media/tiktok.c976cc9c97d220d97db7.png",
+    "static/media/windows-bg-light.jpg": "/window11-ui/static/media/windows-bg-light.985bc993ef7ead795b78.jpg",
+    "static/media/mailIcon.png": "/window11-ui/static/media/mailIcon.698bac7d1b11411fb53e.png",
+    "static/media/calender.png": "/window11-ui/static/media/calender.32060c2ef047ccffeb68.png",
+    "static/media/nodejsIcon.png": "/window11-ui/static/media/nodejsIcon.0a0257aaf8b9fbeb1d65.png",
+    "static/media/cortanaIcon.png": "/window11-ui/static/media/cortanaIcon.bff2875cb021aaef7a31.png",
+    "static/media/itunes.png": "/window11-ui/static/media/itunes.a712af6213fccdd6dc94.png",
+    "static/media/gethelp.png": "/window11-ui/static/media/gethelp.b15a6b945e0dbc2619da.png",
+    "static/media/msoffice.png": "/window11-ui/static/media/msoffice.a192aa069fc20c2cb136.png",
+    "static/media/photoshop.webp": "/window11-ui/static/media/photoshop.223738f78ac5f25612c8.webp",
+    "static/media/pinterest.png": "/window11-ui/static/media/pinterest.9e27230b63e0ba0bc1ab.png",
+    "static/media/volume.svg": "/window11-ui/static/media/volume.16ee658337e79aa096d24776d279b894.svg",
+    "static/media/search.svg": "/window11-ui/static/media/search.cd6dfdb409d58b69346d246e4e485f8c.svg",
+    "static/media/powerButton.svg": "/window11-ui/static/media/powerButton.8d27d42388ee0bef76e074e9b12a3011.svg",
+    "static/media/wifi.svg": "/window11-ui/static/media/wifi.c8aa698159691d468f2f3bf4c1178d34.svg",
+    "static/media/expand-arrow.svg": "/window11-ui/static/media/expand-arrow.0830f3b386d350648d5fd3dc6f39398a.svg",
+    "index.html": "/window11-ui/index.html",
+    "main.4986e224.css.map": "/window11-ui/static/css/main.4986e224.css.map",
+    "main.d43f1fd9.js.map": "/window11-ui/static/js/main.d43f1fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4986e224.css",
+    "static/js/main.d43f1fd9.js"
+  ]
+}
